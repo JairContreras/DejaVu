@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header{
+    background-color: rgb(42, 39, 39);
+    height: 250px;
+}
+
+h1 {
+    position: relative;
+    top: 100px;
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 60px;
+}
+
+h2{
+    position: relative;
+    top: 120px;
+    color: #FFE66D;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+}
+
+h3{
+    position: relative;
+    top: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+iframe{
+    margin: 25px auto;
+    display: block;
+}
+
+div{
+    display: flex;
+}
+
+footer{
+    background-color: black;
+    height: 120px;
+}
